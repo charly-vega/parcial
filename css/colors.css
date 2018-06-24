@@ -1,0 +1,67 @@
+body,
+html {
+    background: #FDFEFF;
+    color: #263238;
+}
+
+a:link,
+a:visited {
+    color: #0091EA;
+}
+
+code,
+blockquote {
+    background: #ECEFF1;
+    color: #37474F;
+}
+
+hr {
+    background: #CFD8DC;
+}
+
+img,
+#table-of-contents ol > li {
+    border-color: #CFD8DC;
+}
+
+/* Highlightjs */
+
+.hljs {
+    background: #455A64;
+}
+
+.hljs,
+.hljs-subst,
+.hljs.ignore * {
+    color: #ECEFF1;  /* base */
+}
+
+.hljs-function,
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-section,
+.hljs-link {
+    color: #80D8FF;  /* blue */
+}
+
+.hljs-string,
+.hljs-title,
+.hljs-name,
+.hljs-type,
+.hljs-attribute,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-tag,
+.hljs-template-variable {
+    color: #E6EE9C;  /* lime */
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion,
+.hljs-meta {
+    color: #A0AEB5; /* gray */
+}

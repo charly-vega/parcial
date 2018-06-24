@@ -1,0 +1,29 @@
+html,
+body {
+    width: 100%;
+}
+
+article,
+footer {
+    width: 100%;
+    max-width: 43rem;
+    margin: 0 auto;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+article {
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+}
+
+#title-section {
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+footer {
+    padding-bottom: 8rem;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+}
